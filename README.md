@@ -23,3 +23,24 @@ Instale as Dependências
 Navegue até o diretório do projeto e instale as dependências do projeto, incluindo o Cypress:
 
 ```npm install```
+Este comando instalará todas as dependências listadas no arquivo package.json, incluindo o Cypress.
+
+Executar o Cypress
+Abrir o Cypress
+Para abrir a interface gráfica do Cypress e começar a escrever e executar testes, use o comando:
+
+```npx cypress open```
+Isso abrirá o Cypress Test Runner, onde você pode visualizar e executar os testes.
+
+Executar Testes no Cypress
+Para executar os testes em modo headless (sem interface gráfica), use o comando:
+
+```npx cypress run```
+Esse comando executará todos os testes definidos na pasta cypress/integration e exibirá os resultados no terminal.
+
+Links Úteis
+Documentação do Cypress
+Node.js
+npm
+
+
