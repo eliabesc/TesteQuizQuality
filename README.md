@@ -15,7 +15,11 @@ Instalação:
 Clone o Repositório
 Primeiro, clone o repositório do projeto para o seu ambiente local:
 
-``git clone https://github.com/seu-usuario/seu-repositorio.git``
+```git clone https://github.com/seu-usuario/seu-repositorio.git```
 
-``cd seu-repositorio``
+```cd seu-repositorio```
 
+Instale as Dependências
+Navegue até o diretório do projeto e instale as dependências do projeto, incluindo o Cypress:
+
+```npm install```
