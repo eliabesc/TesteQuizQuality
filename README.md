@@ -15,6 +15,6 @@ Instalação:
 Clone o Repositório
 Primeiro, clone o repositório do projeto para o seu ambiente local:
 
-``git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio``
+``git clone https://github.com/seu-usuario/seu-repositorio.git``
+``cd seu-repositorio``
 
