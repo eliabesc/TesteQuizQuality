@@ -1,0 +1,5 @@
+node_modules
+
+#imagens e videos
+*.png
+*.mp4
