@@ -9,7 +9,7 @@ describe('Preencher o formulario de acesso gratis', () => {
     });
 
     context('Quando clicar no botão: Testar agora', () => {
-        it('O link redireciona para pagina de preechimento do formulario', () => {
+        it('O link redireciona para pagina de preechimento do formulario.', () => {
             // Limpa o localStorage
             cy.myClearLocalStorage();
             
