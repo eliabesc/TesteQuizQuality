@@ -41,9 +41,12 @@ Para executar os testes em modo headless (sem interface gráfica), use o comando
 
 Esse comando executará todos os testes definidos na pasta cypress/integration e exibirá os resultados no terminal.
 
-## Links Úteis
-Documentação do Cypress
-Node.js
-npm
+## Links Úteis 
+(`[Documentação do Cypress]([URL](https://docs.cypress.io/guides/overview/why-cypress))`) 
+
+(`[Node.js]([URL](https://nodejs.org/pt))`) 
+
+(`[npm]([URL](https://www.npmjs.com/))`) 
+
 
 
