@@ -1,4 +1,5 @@
 Projeto de Testes com Cypress
+
 Este projeto utiliza o Cypress para testes automatizados. Abaixo estão as instruções para instalar e executar o Cypress.
 
 Pré-requisitos
